@@ -1,4 +1,3 @@
-# CREDIT: I did not write this file. It was provided in the starter code for this assignment.
 """
 
 Usage
